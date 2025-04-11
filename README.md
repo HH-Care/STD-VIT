@@ -21,9 +21,9 @@ The model predicts one of the following classes:
 ## 📁 File Structure
 
 ```
-std_classifier/
+STD-VIT/
 │
-├── std_classifier.py           # Main script for model loading and prediction
+├── main.py           # Main script for model loading and prediction
 ├── README.md                   # Documentation
 ├── requirements.txt            # Python dependencies
 └── weights/
@@ -65,14 +65,14 @@ Save the `.h5` file inside the `weights/` folder or set the path using an enviro
 ## 🚀 Run Prediction
 
 ```bash
-python std_classifier.py path/to/image.jpg
+python main.py path/to/image.jpg
 ```
 
 Or specify custom model weight path:
 
 ```bash
 export STD_MODEL_WEIGHTS_PATH=/custom/path/to/weights.h5
-python std_classifier.py path/to/image.jpg
+python main.py path/to/image.jpg
 ```
 
 ---
