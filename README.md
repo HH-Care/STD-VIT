@@ -82,7 +82,8 @@ python main.py path/to/image.jpg
 - The model will print the predicted class and confidence.
 - It will also **display the image with the prediction** using `matplotlib`.
 
----
+
+<img src="https://github.com/janithaDassanayake/dummyimages/blob/main/output%20(4).png" alt="STD VIT" />
 
 ## 🧠 Model Architecture
 
