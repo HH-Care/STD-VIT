@@ -1,0 +1,26 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2025 Thanveer Ahamad, Janitha Prathapa, Yudara Kularathne
+
+This license lets others remix, adapt, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full License Text:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Summary:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Project: STD Image Classifier using Vision Transformer (ViT-B16)
+Description:
+This project uses a Vision Transformer (ViT-B16) model to classify penile-related STD images into six categories: Genital_warts, HSV, Normal, Penile_cancer, Penile_candidiasis, and Syphillis. The model is built using TensorFlow and vit-keras, with a fine-tuned classification head.
+
+For licensing inquiries (including commercial usage), please contact the authors directly.
