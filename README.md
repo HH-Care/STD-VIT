@@ -27,7 +27,7 @@ STD-VIT/
 ├── README.md                   # Documentation
 ├── requirements.txt            # Python dependencies
 └── weights/
-    └── viT_std_model_weights.h5  # Pretrained model weights (not included in repo)
+    └── STD_VIT.h5  # Pretrained model weights (not included in repo)
 ```
 
 ---
