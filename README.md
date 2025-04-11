@@ -94,12 +94,6 @@ This project uses:
 
 ---
 
-## ⚠️ Disclaimer
-
-This tool is for **educational and research purposes only** and must **not be used for clinical or diagnostic purposes** without regulatory approval. Always consult a licensed healthcare provider.
-
----
-
 ## 👨‍💻 Authors
 
 - **Thanveer Ahamad**
