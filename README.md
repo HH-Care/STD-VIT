@@ -99,6 +99,13 @@ This tool is for **educational and research purposes only** and must **not be us
 
 ---
 
+## License
+
+This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).  
+Commercial use is prohibited without prior permission. For more details, see the [LICENSE](./LICENSE) file.
+
+---
+
 ## 👨‍💻 Authors
 
 - **Thanveer Ahamad**
